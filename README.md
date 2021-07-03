@@ -1,6 +1,6 @@
 # PORTFOLIO
 ## My Portfolio
-[WEBISTE](https://akshatprogrammer.github.io/akshatjain.github.io/)
+[WEBISTE](https://akshatprogrammer.github.io/portfolio/)
 
 # Connect With Me
 LinkedIn : https://www.linkedin.com/in/akshatjaingeu/<br/>
